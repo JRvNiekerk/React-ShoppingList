@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Home",
+        "src": "src",
+        "alt": "Shopping List Button"
+    },
+    {
+        "title": "Products",
+        "src": "src",
+        "alt": "Product List Button"
+    },
+    {
+        "title": "Settings",
+        "src": "src",
+        "alt": " Settings Button"
+    }
+]

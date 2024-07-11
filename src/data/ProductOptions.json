@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Buns",
+    "category": "Bakery"
+  },
+  {
+    "id": 2,
+    "name": "Cookies",
+    "category": "Bakery"
+  },
+  {
+    "id": 3,
+    "name": "Loaf Bread",
+    "category": "Bakery"
+  },
+  {
+    "id": 4,
+    "name": "Rolls",
+    "category": "Bakery"
+  },
+  {
+    "id": 5,
+    "name": "Tea",
+    "category": "Beverages"
+  },
+  {
+    "id": 6,
+    "name": "Juice",
+    "category": "Beverages"
+  },
+  {
+    "id": 7,
+    "name": "Soda",
+    "category": "Beverages"
+  },
+  {
+    "id": 8,
+    "name": "Water",
+    "category": "Beverages"
+  },
+  {
+    "id": 9,
+    "name": "Cat Food",
+    "category": "Cat Care"
+  },
+  {
+    "id": 10,
+    "name": "Cat Litter",
+    "category": "Cat Care"
+  },
+  {
+    "id": 11,
+    "name": "Cat Toys",
+    "category": "Cat Care"
+  },
+  {
+    "id": 12,
+    "name": "Cat Treats",
+    "category": "Cat Care"
+  },
+  {
+    "id": 13,
+    "name": "All-Purpose Cleaner",
+    "category": "Cleaning"
+  },
+  {
+    "id": 14,
+    "name": "Dish Soap",
+    "category": "Cleaning"
+  },
+  {
+    "id": 15,
+    "name": "Laundry Detergent",
+    "category": "Cleaning"
+  },
+  {
+    "id": 16,
+    "name": "Sponges",
+    "category": "Cleaning"
+  },
+  {
+    "id": 17,
+    "name": "Butter",
+    "category": "Dairy"
+  },
+  {
+    "id": 18,
+    "name": "Cheese",
+    "category": "Dairy"
+  },
+  {
+    "id": 19,
+    "name": "Milk",
+    "category": "Dairy"
+  },
+  {
+    "id": 20,
+    "name": "Yogurt",
+    "category": "Dairy"
+  },
+  {
+    "id": 21,
+    "name": "Apples",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 22,
+    "name": "Bananas",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 23,
+    "name": "Carrots",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 24,
+    "name": "Lettuce",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 25,
+    "name": "Onions",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 26,
+    "name": "Potatoes",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 27,
+    "name": "Tomatoes",
+    "category": "Fruits & Vegetables"
+  },
+  {
+    "id": 28,
+    "name": "Bread",
+    "category": "Pantry"
+  },
+  {
+    "id": 29,
+    "name": "Canned Beans",
+    "category": "Pantry"
+  },
+  {
+    "id": 30,
+    "name": "Cereal",
+    "category": "Pantry"
+  },
+  {
+    "id": 31,
+    "name": "Pasta",
+    "category": "Pantry"
+  },
+  {
+    "id": 32,
+    "name": "Rice",
+    "category": "Pantry"
+  },
+  {
+    "id": 33,
+    "name": "Shampoo",
+    "category": "Personal Care"
+  },
+  {
+    "id": 34,
+    "name": "Soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 35,
+    "name": "Toothpaste",
+    "category": "Personal Care"
+  },
+  {
+    "id": 36,
+    "name": "Chips",
+    "category": "Snacks"
+  },
+  {
+    "id": 37,
+    "name": "Crackers",
+    "category": "Snacks"
+  },
+  {
+    "id": 38,
+    "name": "Nuts",
+    "category": "Snacks"
+  },
+  {
+    "id": 39,
+    "name": "Popcorn",
+    "category": "Snacks"
+  }
+]

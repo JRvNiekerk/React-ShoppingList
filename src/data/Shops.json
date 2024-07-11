@@ -1,0 +1,12 @@
+[
+    {
+        "id": "S1",
+        "name": "Checkers",
+        "logo": "checkers_logo.png"
+    },
+    {
+        "id": "S2",
+        "name": "Spar",
+        "logo": "spar_logo.png" 
+    }
+]

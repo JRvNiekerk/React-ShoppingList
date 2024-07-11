@@ -1,0 +1,31 @@
+.listItems {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0.5em 0em 0.5em 1em;
+}
+
+.listItems:hover {
+    opacity: 80%;
+    cursor: pointer;
+}
+
+.quantityIndicator {
+    padding-right: 1em;
+    position: absolute;
+    right: 0;
+}
+
+.strikeout {
+    position: relative;
+}
+
+.strikeout::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0.75em;
+    right: 0.75em;
+    border-top: var(--border-size);
+    transform: translateY(-50%);
+}

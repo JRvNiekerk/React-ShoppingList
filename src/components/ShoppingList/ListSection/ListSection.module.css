@@ -1,0 +1,11 @@
+.heading{
+    background-color: transparent;
+    border-top: var(--border-size);
+    border-left: 0px;
+    border-right: 0px;
+    cursor: pointer;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+}

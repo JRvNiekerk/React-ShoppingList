@@ -1,0 +1,20 @@
+.footer{
+    border-top: var(--border-size);
+    border: var(--border-size);
+    padding: 0.25em;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 1em;
+}
+
+.footer button img {
+    border: none;
+}

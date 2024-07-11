@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Bakery",
+    "color": "#F3E5AB"
+  },
+  {
+    "id": 2,
+    "name": "Beverages",
+    "color": "#C2D4DD"
+  },
+  {
+    "id": 3,
+    "name": "Cat Care",
+    "color": "#D3A4FF"
+  },
+  {
+    "id": 4,
+    "name": "Cleaning",
+    "color": "#E5E4E2"
+  },
+  {
+    "id": 5,
+    "name": "Dairy",
+    "color": "#FFFDD0"
+  },
+  {
+    "id": 6,
+    "name": "Fruits & Vegetables",
+    "color": "#C5E1A5"
+  },
+  {
+    "id": 7,
+    "name": "Pantry",
+    "color": "#E7C9A9"
+  },
+  {
+    "id": 8,
+    "name": "Personal Care",
+    "color": "#F5D0A9"
+  },
+  {
+    "id": 9,
+    "name": "Snacks",
+    "color": "#FFDAB9"
+  }
+]

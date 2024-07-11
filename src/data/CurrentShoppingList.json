@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Buns",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 2,
+      "name": "Cookies",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 3,
+      "name": "Loaf Bread",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 37,
+      "name": "Crackers",
+      "category": "Snacks",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 38,
+      "name": "Nuts",
+      "category": "Snacks",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 39,
+      "name": "Popcorn",
+      "category": "Snacks",
+      "quantity": 1,
+      "store": "Checkers"
+    },
+    {
+      "id": 4,
+      "name": "Buns",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Spar"
+    },
+    {
+      "id": 5,
+      "name": "Cookies",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Spar"
+    },
+    {
+      "id": 6,
+      "name": "Loaf Bread",
+      "category": "Bakery",
+      "quantity": 1,
+      "store": "Spar"
+    }
+]
